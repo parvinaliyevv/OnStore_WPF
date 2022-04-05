@@ -7,5 +7,5 @@ namespace OnStore
     /// </summary>
     public partial class App : Application
     {
-    }
+    }//
 }
